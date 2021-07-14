@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://technocrazepg.github.io/csb-l58o6/static/css/main.482e3ed9.chunk.css",
+    "main.js": "https://technocrazepg.github.io/csb-l58o6/static/js/main.f2a4eca1.chunk.js",
+    "main.js.map": "https://technocrazepg.github.io/csb-l58o6/static/js/main.f2a4eca1.chunk.js.map",
+    "runtime-main.js": "https://technocrazepg.github.io/csb-l58o6/static/js/runtime-main.2e5944be.js",
+    "runtime-main.js.map": "https://technocrazepg.github.io/csb-l58o6/static/js/runtime-main.2e5944be.js.map",
+    "static/js/2.9e2ccb2d.chunk.js": "https://technocrazepg.github.io/csb-l58o6/static/js/2.9e2ccb2d.chunk.js",
+    "static/js/2.9e2ccb2d.chunk.js.map": "https://technocrazepg.github.io/csb-l58o6/static/js/2.9e2ccb2d.chunk.js.map",
+    "static/js/3.f4a5d527.chunk.js": "https://technocrazepg.github.io/csb-l58o6/static/js/3.f4a5d527.chunk.js",
+    "static/js/3.f4a5d527.chunk.js.map": "https://technocrazepg.github.io/csb-l58o6/static/js/3.f4a5d527.chunk.js.map",
+    "index.html": "https://technocrazepg.github.io/csb-l58o6/index.html",
+    "static/css/main.482e3ed9.chunk.css.map": "https://technocrazepg.github.io/csb-l58o6/static/css/main.482e3ed9.chunk.css.map",
+    "static/js/2.9e2ccb2d.chunk.js.LICENSE.txt": "https://technocrazepg.github.io/csb-l58o6/static/js/2.9e2ccb2d.chunk.js.LICENSE.txt",
+    "static/media/bg.383fb1ca.jpg": "https://technocrazepg.github.io/csb-l58o6/static/media/bg.383fb1ca.jpg",
+    "static/media/midImg.863751df.png": "https://technocrazepg.github.io/csb-l58o6/static/media/midImg.863751df.png",
+    "static/media/ppic.c11f98e0.png": "https://technocrazepg.github.io/csb-l58o6/static/media/ppic.c11f98e0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e5944be.js",
+    "static/js/2.9e2ccb2d.chunk.js",
+    "static/css/main.482e3ed9.chunk.css",
+    "static/js/main.f2a4eca1.chunk.js"
+  ]
+}
